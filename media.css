@@ -45,16 +45,19 @@
     .hero {
         flex-direction: column-reverse;
     }
+    .hero-text1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+
 }
 
 @media (max-width:576px){
-.hero-text1 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-}
+
 .header a {
     font-size: 18px;
     margin: 0 12px;
