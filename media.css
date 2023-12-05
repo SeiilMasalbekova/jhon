@@ -1,0 +1,229 @@
+@media (max-width:1440px){
+    .container {
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+@media (max-width:1200px){
+.parts {
+    flex-direction: column;
+}
+.look-text p {
+    display: none;
+}
+.look-text  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.muz-2 {
+    display: none;
+    
+}
+.muz-3 {
+    display: none;
+}
+.muz-1 {
+    flex-direction: column;
+}
+#muz {
+    padding: 59px 0;
+}
+}
+@media (max-width:1024px){
+    #hero {
+        padding: 41px 0;
+    }
+    .hero-text1 p {
+        width: 468px;
+    }
+}
+@media (max-width:992px){
+
+}
+@media (max-width:576px){
+.hero {
+    flex-direction: column-reverse;
+}
+.hero-text1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.header a {
+    font-size: 18px;
+    margin: 0 12px;
+}
+.hero-text1 h1 {
+    width: 389px;
+    font-size: 40px;
+}
+.hero-text1 p {
+    width: 448px;
+    margin: 14px 0 27px;
+}
+.parts-1 {
+    width: 390px;
+    height: 230px;
+    margin-top: 21px;
+}
+.parts-2 {
+    width: 390px;
+    height: 230px;
+}
+#muz {
+    padding: 37px 0;
+}
+.muz-1 {
+    margin: 22px 0;
+}
+.muz-text p {
+    width: 405px;
+}
+}
+@media (max-width:451px){
+.hero img {
+    width: 230px;
+}
+.hero-text1 h1 {
+    width: 360px;
+    font-size: 38px;
+    line-height: 40px;
+}
+.hero-text1 p {
+    width: 397px;
+    margin: 14px 0 27px;
+}
+.parts-1 h1 {
+    width: 334px;
+    font-size: 22px;
+}
+.parts-2 h1 {
+    width: 334px;
+    font-size: 22px;
+}
+.parts-1 h3 {
+    font-size: 16px;
+}
+.parts-1 h3 span {
+    font-size: 16px;
+}
+.parts-2 h3 {
+    font-size: 16px;
+}
+.parts-2 h3 span {
+    font-size: 16px;
+}
+.parts-1 p {
+    width: 314px;
+}
+.parts-2 p {
+    width: 314px;
+}
+.parts-1 {
+    width: 338px;
+    height: 216px;
+}
+.parts-2 {
+    width: 338px;
+    height: 216px;
+}
+.muz-1 img {
+    width: 100%;
+}
+.muz-1 h1 {
+    font-size: 24px;
+}
+.muz-years1 h3 {
+    font-size: 16px;
+    padding: 1px 12px;
+}
+.muz-years1 h4 {
+    font-size: 22px;
+    padding-left: 22px;
+}
+.muz-text p {
+    width: 344px;
+}
+}
+@media (max-width:400px){
+    
+    .muz-text p {
+        width: 318px;
+    }
+    #hero {
+        padding: 17px 0;
+    }
+    .hero-text1 h1 {
+        width: 360px;
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .hero-text1 p {
+        width: 334px;
+    }
+    .hero img {
+        width: 212px;
+    }
+}
+@media (max-width:376px){
+.hero img {
+    width: 190px;
+}
+.hero-text1 h1 {
+    font-size: 34px;
+    width: 323px;
+}
+.footer-icon span {
+    font-size: 28px;
+}
+}
+@media (max-width:320px){
+    header a {
+        font-size: 16px;
+        margin: 0 4px;
+    }
+    .hero-text1 h1 {
+        font-size: 32px;
+    }
+.hero-text1 p {
+    width: 305px;
+}
+.parts-1 {
+    width: 272px;
+    height: 249px;
+}
+.parts-2 {
+    width: 272px;
+    height: 249px;
+}
+.parts-1 h1 {
+    width: 305px;
+}
+.parts-2 h1 {
+    width: 275px;
+}
+.parts-1 h3 span {
+    padding: 0 2px;
+}
+.parts-2 h3 span {
+    padding: 0 2px;
+}
+.parts-1 p {
+    width: 282px;
+}
+.parts-2 p {
+    width: 282px;
+}
+.T {
+    font-size: 18px;
+}
+.look-text h1 {
+    font-size: 18px;
+}
+.muz-text p {
+    width: 275px;
+}
+}
