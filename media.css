@@ -90,6 +90,14 @@
 }
 }
 @media (max-width:451px){
+    .parts-2 {
+        width: 338px;
+        height: 275px;
+    }
+    .parts-1 {
+        width: 338px;
+        height: 275px;
+    }
 .hero img {
     width: 230px;
 }
@@ -127,14 +135,6 @@
 }
 .parts-2 p {
     width: 314px;
-}
-.parts-1 {
-    width: 338px;
-    height: 216px;
-}
-.parts-2 {
-    width: 338px;
-    height: 216px;
 }
 .muz-1 img {
     width: 100%;
