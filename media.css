@@ -1,10 +1,10 @@
-@media (max-width:1440px){
+@media (max-width: 1440px){
     .container {
         width: 70%;
         margin: 0 auto;
     }
 }
-@media (max-width:1200px){
+@media (max-width: 1200px){
 .parts {
     flex-direction: column;
 }
@@ -30,7 +30,7 @@
     padding: 59px 0;
 }
 }
-@media (max-width:1024px){
+@media (max-width: 1024px){
     #hero {
         padding: 41px 0;
     }
@@ -38,10 +38,10 @@
         width: 468px;
     }
 }
-@media (max-width:992px){
+@media (max-width: 992px){
 
 }
-@media (max-width:768px){
+@media (max-width: 768px){
     .hero {
         flex-direction: column-reverse;
     }
@@ -56,7 +56,7 @@
 
 }
 
-@media (max-width:576px){
+@media (max-width: 576px){
 
 .header a {
     font-size: 18px;
@@ -92,7 +92,7 @@
     margin: 10px 0;
 }
 }
-@media (max-width:451px){
+@media (max-width: 451px){
     .parts-2 {
         width: 338px;
         height: 275px;
@@ -157,7 +157,7 @@
     width: 344px;
 }
 }
-@media (max-width:400px){
+@media (max-width: 400px){
     
     .muz-text p {
         width: 318px;
@@ -177,7 +177,7 @@
         width: 212px;
     }
 }
-@media (max-width:376px){
+@media (max-width: 376px){
 .hero img {
     width: 190px;
 }
@@ -189,7 +189,7 @@
     font-size: 28px;
 }
 }
-@media (max-width:320px){
+@media (max-width: 320px){
     header a {
         font-size: 16px;
         margin: 0 4px;
