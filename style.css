@@ -8,7 +8,6 @@
 }
 body {
     font-family: "Heebo", sans-serif;
-    position: ;
 }
 #header {
     padding: 15px 0;
@@ -38,12 +37,14 @@ margin: 0 20px;
     justify-content: space-between;
 }
 .hero-text1 h1 {
+    width: 506px;
     color: var(--Dark-Color, #21243D);
 font-size: 44px;
 font-weight: 700;
 line-height: 60px; 
 }
 .hero-text1 p {
+    width: 497px;
     color: var(--Dark-Color, #21243D);
 font-family: Heebo;
 font-size: 16px;
@@ -101,6 +102,7 @@ padding: 20px 0 0 30px;
 margin-top: 40px;
 }
 .parts-1 h1 {
+    width: 374px;
     color: var(--Dark-Color, #21243D);
 font-size: 26px;
 font-weight: 700;
@@ -115,6 +117,7 @@ font-weight: 700;
     padding: 0 20px;
 }
 .parts-1 p {
+    width: 368px;
     color: var(--Dark-Color, #21243D);
 font-size: 16px;
 font-weight: 400;
@@ -130,6 +133,7 @@ padding: 20px 0 0 30px;
 margin-top: 40px;
 }
 .parts-2 h1 {
+    width: 374px;
     color: var(--Dark-Color, #21243D);
 font-size: 26px;
 font-weight: 700;
@@ -144,6 +148,7 @@ font-weight: 700;
     padding: 0 20px;
 }
 .parts-2 p {
+    width: 368px;
     color: var(--Dark-Color, #21243D);
 font-size: 16px;
 font-weight: 400;
@@ -204,7 +209,8 @@ font-size: 20px;
 font-weight: 400;
 padding-left: 25px;
 }
-.muz-years1 p {
+.muz-text p {
+    width: 594px;
     color: var(--Dark-Color, #21243D);
 font-size: 16px;
 font-weight: 400;
@@ -294,6 +300,8 @@ font-weight: 400;
 }
 .footer-icon {
     text-align: center;
+}
+.footer-icon span {
     font-size: 40px;
     fill: var(--Dark, #21243D);
     margin: 0 10px;
