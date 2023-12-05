@@ -92,12 +92,15 @@ font-weight: 400;
 margin: 10px 0 40px 0;
 }
 .car {
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-margin: 5% 26%;
+    text-align: center;
+margin: 10px 0;
 }
 .plan {
-    margin: 0 26%;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    text-align: center;
+    margin: 35px 0;
+}
+#footer {
+    padding: 20px 0;
 }
 .footer p {
     color: var(--Dark, #21243D);
